@@ -7,12 +7,10 @@ body {
     margin-bottom: 20px;
   }
   
-  /* Espaciado entre botones de tabs */
   .nav-pills .nav-link {
     margin: 0 5px;
   }
   
-  /* Grid view: adaptar imágenes */
   #gridView .row img {
     width: 100%;
     height: 100%;
@@ -20,14 +18,12 @@ body {
     border-radius: 8px;
     margin-bottom: 40px;
   }
-  
-  /* Estilo general para cards en Single View */
+ 
   #singleView .card {
     margin-bottom: 20px;
     border-radius: 8px;
   }
   
-  /* Modal */
   .modal-content {
     border-radius: 8px;
   }
